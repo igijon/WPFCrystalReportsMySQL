@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCrystalReportsMySQL", "WPFCrystalReportsMySQL\WPFCrystalReportsMySQL.csproj", "{4C6E85A6-A1DB-4560-A47B-70F037800282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6E85A6-A1DB-4560-A47B-70F037800282}.Debug|x86.ActiveCfg = Debug|x86
+		{4C6E85A6-A1DB-4560-A47B-70F037800282}.Debug|x86.Build.0 = Debug|x86
+		{4C6E85A6-A1DB-4560-A47B-70F037800282}.Release|x86.ActiveCfg = Release|x86
+		{4C6E85A6-A1DB-4560-A47B-70F037800282}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889AD21D-1261-497E-98AD-40C4E0C3E0B7}
+	EndGlobalSection
+EndGlobal
